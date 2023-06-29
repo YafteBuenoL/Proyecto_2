@@ -1,4 +1,7 @@
 # modulo2
+
+Yafte Santiago Bueno Leon_proyecto2
+
 Validacion de palabra
 En este modulo se pidio un programa que identificara la longitud de palabras de una frase pide mediante un mensaje que se ingrese una palabra con mas de cuatro letras y menos de ocho, que por medio de la funcion (len) identifica e inprime un mensaje que identifica la longitud de letras de la palabra, usando if y elif identifica la palabra que se escribio cumple con los requisitos pedidos con anterioridad.
 
