@@ -1,4 +1,4 @@
-# Readme_proyecto_2
+# proyecto_2
 
 Yafte Santiago Bueno Leon_proyecto2
 
